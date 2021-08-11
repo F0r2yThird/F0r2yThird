@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @F0r2yThird
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Ushenik
 
 <!---
