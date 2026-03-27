@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F0r2yThird
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, Machine Learning
 - 📫 How to reach me https://t.me/Ushenik
 
 <!---
